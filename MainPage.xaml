@@ -8,7 +8,9 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
+    <Grid Margin="0,0,665,500">
+        <Button/>
+        <CheckBox Content="CheckBox" Margin="168,687,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>
