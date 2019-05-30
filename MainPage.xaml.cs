@@ -22,6 +22,9 @@ namespace UWPTest
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        readonly int i = 0;
+
+
         public MainPage()
         {
             this.InitializeComponent();
