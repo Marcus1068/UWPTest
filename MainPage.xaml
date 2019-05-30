@@ -5,12 +5,12 @@
     xmlns:local="using:UWPTest"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="using:Microsoft.Toolkit.Uwp.UI.Controls"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Margin="0,0,665,500">
-        <Button/>
-        <CheckBox Content="CheckBox" Margin="168,687,0,0" VerticalAlignment="Top"/>
+        <Button Content="Hello World"/>
 
     </Grid>
 </Page>
